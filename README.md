@@ -1,6 +1,6 @@
 # loginapp
-a
-A new Flutter project.
+I this flutter project we have set UI and functionality of Login and Signup
+with local storage .
 
 ## Getting Started
 
